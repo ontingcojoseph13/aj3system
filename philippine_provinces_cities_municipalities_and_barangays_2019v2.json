@@ -47507,10 +47507,56 @@
               "BARANGAY 200",
               "BARANGAY 201"
             ]
+          },
+          "PATEROS": {
+            "barangay_list": [
+              "AGUHO",
+              "MAGTANGGOL",
+              "MARTIRES DEL 96",
+              "POBLACION",
+              "SAN PEDRO",
+              "SAN ROQUE",
+              "SANTA ANA",
+              "SANTO ROSARIO-KANLURAN",
+              "SANTO ROSARIO-SILANGAN",
+              "TABACALERA"
+            ]
+          },
+          "TAGUIG": {
+            "barangay_list": [
+              "BAGUMBAYAN",
+              "BAMBANG",
+              "CALZADA",
+              "CENTRAL BICUTAN",
+              "CENTRAL SIGNAL VILLAGE",
+              "FORT BONIFACIO",
+              "HAGONOY",
+              "IBAYO-TIPAS",
+              "KATUPARAN",
+              "LIGID-TIPAS",
+              "LOWER BICUTAN",
+              "MAHARLIKA VILLAGE",
+              "NAPINDAN",
+              "NEW LOWER BICUTAN",
+              "NORTH DAANG HARI",
+              "NORTH SIGNAL VILLAGE",
+              "PALINGON",
+              "PINAGSAMA",
+              "SAN MIGUEL",
+              "SANTA ANA",
+              "SOUTH DAANG HARI",
+              "SOUTH SIGNAL VILLAGE",
+              "TANYAG",
+              "TUKTUKAN",
+              "UPPER BICUTAN",
+              "USUSAN",
+              "WAWA",
+              "WESTERN BICUTAN"
+            ]
           }
         }
       },
-      "NATIONAL CAPITAL REGION - MANILA": {
+      "NATIONAL CAPITAL REGION - MANILA/FIRST DISTRICT": {
         "municipality_list": {
           "BINONDO": {
             "barangay_list": [
@@ -49002,56 +49048,6 @@
               "TANGOS SOUTH",
               "TANZA 1",
               "TANZA 2"
-            ]
-          }
-        }
-      },
-      "TAGUIG - PATEROS": {
-        "municipality_list": {
-          "PATEROS": {
-            "barangay_list": [
-              "AGUHO",
-              "MAGTANGGOL",
-              "MARTIRES DEL 96",
-              "POBLACION",
-              "SAN PEDRO",
-              "SAN ROQUE",
-              "SANTA ANA",
-              "SANTO ROSARIO-KANLURAN",
-              "SANTO ROSARIO-SILANGAN",
-              "TABACALERA"
-            ]
-          },
-          "TAGUIG": {
-            "barangay_list": [
-              "BAGUMBAYAN",
-              "BAMBANG",
-              "CALZADA",
-              "CENTRAL BICUTAN",
-              "CENTRAL SIGNAL VILLAGE",
-              "FORT BONIFACIO",
-              "HAGONOY",
-              "IBAYO-TIPAS",
-              "KATUPARAN",
-              "LIGID-TIPAS",
-              "LOWER BICUTAN",
-              "MAHARLIKA VILLAGE",
-              "NAPINDAN",
-              "NEW LOWER BICUTAN",
-              "NORTH DAANG HARI",
-              "NORTH SIGNAL VILLAGE",
-              "PALINGON",
-              "PINAGSAMA",
-              "SAN MIGUEL",
-              "SANTA ANA",
-              "SOUTH DAANG HARI",
-              "SOUTH SIGNAL VILLAGE",
-              "TANYAG",
-              "TUKTUKAN",
-              "UPPER BICUTAN",
-              "USUSAN",
-              "WAWA",
-              "WESTERN BICUTAN"
             ]
           }
         }
