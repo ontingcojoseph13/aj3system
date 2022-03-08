@@ -1,6 +1,6 @@
 {
   "01": {
-    "region_name": "REGION I",
+    "region_name": "REGION I (ILOCOS REGION)",
     "province_list": {
       "ILOCOS NORTE": {
         "municipality_list": {
@@ -3788,7 +3788,7 @@
     }
   },
   "02": {
-    "region_name": "REGION II",
+    "region_name": "REGION II (CAGAYAN VALLEY)",
     "province_list": {
       "BATANES": {
         "municipality_list": {
@@ -6496,7 +6496,7 @@
     }
   },
   "03": {
-    "region_name": "REGION III",
+    "region_name": "REGION III (CENTRAL LUZON)",
     "province_list": {
       "AURORA": {
         "municipality_list": {
@@ -10151,7 +10151,7 @@
     }
   },
   "4A": {
-    "region_name": "REGION IV-A",
+    "region_name": "REGION IV-A (CALABARZON)",
     "province_list": {
       "BATANGAS": {
         "municipality_list": {
@@ -14763,7 +14763,7 @@
     }
   },
   "4B": {
-    "region_name": "REGION IV-B",
+    "region_name": "REGION IV-B (MIMAROPA)",
     "province_list": {
       "MARINDUQUE": {
         "municipality_list": {
@@ -16540,7 +16540,7 @@
     }
   },
   "05": {
-    "region_name": "REGION V",
+    "region_name": "REGION V (BICOL REGION)",
     "province_list": {
       "ALBAY": {
         "municipality_list": {
@@ -20496,7 +20496,7 @@
     }
   },
   "06": {
-    "region_name": "REGION VI",
+    "region_name": "REGION VI (WESTERN VISAYAS)",
     "province_list": {
       "AKLAN": {
         "municipality_list": {
@@ -25108,7 +25108,7 @@
     }
   },
   "07": {
-    "region_name": "REGION VII",
+    "region_name": "REGION VII (CENTRAL VISAYAS)",
     "province_list": {
       "BOHOL": {
         "municipality_list": {
@@ -28660,7 +28660,7 @@
     }
   },
   "08": {
-    "region_name": "REGION VIII",
+    "region_name": "REGION VIII (EASTERN VISAYAS)",
     "province_list": {
       "BILIRAN": {
         "municipality_list": {
@@ -33651,7 +33651,7 @@
     }
   },
   "09": {
-    "region_name": "REGION IX",
+    "region_name": "REGION IX (ZAMBOANGA PENINSULA)",
     "province_list": {
       "ZAMBOANGA DEL NORTE": {
         "municipality_list": {
@@ -35811,7 +35811,7 @@
     }
   },
   "10": {
-    "region_name": "REGION X",
+    "region_name": "REGION X (NORTHERN MINDANAO)",
     "province_list": {
       "BUKIDNON": {
         "municipality_list": {
@@ -38230,7 +38230,7 @@
     }
   },
   "11": {
-    "region_name": "REGION XI",
+    "region_name": "REGION XI (DAVAO REGION)",
     "province_list": {
       "COMPOSTELA VALLEY": {
         "municipality_list": {
@@ -39613,7 +39613,7 @@
     }
   },
   "12": {
-    "region_name": "REGION XII",
+    "region_name": "REGION XII (SOCCSKSARGEN)",
     "province_list": {
       "COTABATO (NORTH COT.)": {
         "municipality_list": {
@@ -40988,7 +40988,7 @@
     }
   },
   "13": {
-    "region_name": "REGION XIII",
+    "region_name": "REGION XIII (Caraga)",
     "province_list": {
       "AGUSAN DEL NORTE": {
         "municipality_list": {
@@ -42616,7 +42616,7 @@
     }
   },
   "BARMM": {
-    "region_name": "BARMM",
+    "region_name": "BARMM (BANGSAMORO AUTONOMOUS REGION IN MUSLIM MINDANAO)",
     "province_list": {
       "BASILAN": {
         "municipality_list": {
@@ -45692,7 +45692,7 @@
     }
   },
   "CAR": {
-    "region_name": "CAR",
+    "region_name": "CAR (CORDILLERA ADMINISTRATIVE REGION)",
     "province_list": {
       "ABRA": {
         "municipality_list": {
@@ -47205,9 +47205,9 @@
     }
   },
   "NCR": {
-    "region_name": "NCR",
+    "region_name": "NCR (NATIONAL CAPITAL REGION)",
     "province_list": {
-      "NATIONAL CAPITAL REGION - FOURTH DISTRICT": {
+      "FOURTH DISTRICT": {
         "municipality_list": {
           "CITY OF LAS PIÑAS": {
             "barangay_list": [
@@ -47556,7 +47556,7 @@
           }
         }
       },
-      "NATIONAL CAPITAL REGION - MANILA/FIRST DISTRICT": {
+      "MANILA/FIRST DISTRICT": {
         "municipality_list": {
           "BINONDO": {
             "barangay_list": [
@@ -48512,7 +48512,7 @@
           }
         }
       },
-      "NATIONAL CAPITAL REGION - SECOND DISTRICT": {
+      "SECOND DISTRICT": {
         "municipality_list": {
           "CITY OF MANDALUYONG": {
             "barangay_list": [
@@ -48772,7 +48772,7 @@
           }
         }
       },
-      "NATIONAL CAPITAL REGION - THIRD DISTRICT": {
+      "THIRD DISTRICT": {
         "municipality_list": {
           "CALOOCAN CITY": {
             "barangay_list": [
